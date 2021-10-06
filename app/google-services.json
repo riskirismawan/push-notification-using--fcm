@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599159341498",
+    "project_id": "test-firebase-12141",
+    "storage_bucket": "test-firebase-12141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599159341498:android:774fceb308b61eeb75dd83",
+        "android_client_info": {
+          "package_name": "com.riski.firebasepushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599159341498-rksc0emje6lkgr307auj8a08r42hr1k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT6xh4Gh29vAeebPqMWmoeuIeDcjNusNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599159341498-rksc0emje6lkgr307auj8a08r42hr1k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
